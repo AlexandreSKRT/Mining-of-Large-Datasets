@@ -7,3 +7,6 @@ Using Spotify data to implement ML models. Final goal: predict the genre of a so
 - :file_folder: <b>Data</b> <i>(Data Folder)</i> 
   - :floppy_disk: spotify_music.csv <i>(DataSet, Spotify songs)</i>
 - :ledger: MusicGenrePrediction.ipynb <i>(Project)</i>
+
+### 2. How to use the project?
+This project can be used as an introduction to clustering methods for educational purposis. You will find the different steps of a machine learning project, from data pre-processing to data visualization to results analysis. It combines both naive model theory and applications using [sklearn](https://scikit-learn.org/stable/) library. 
